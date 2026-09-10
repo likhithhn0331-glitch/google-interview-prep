@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20fc819a-2cb1-452e-be85-4f27f2c62e0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/contains_duplicate/.idea/contains_duplicate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/contains_duplicate/brute_force.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/contains_duplicate/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/contains_duplicate/set_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/two_sum/.idea/two_sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/two_sum/brute_force.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/two_sum/hashmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/two_sum/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/two_sum/two_pointer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/two_sum/two_sum_problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/valid_anagram/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/valid_anagram/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/valid_anagram/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/valid_anagram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/valid_anagram/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/valid_anagram/.idea/valid_anagram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/valid_anagram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/valid_anagram/brute_force.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/valid_anagram/frequency_counting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/valid_anagram/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../dsa/codes/valid_anagram/valid_anagram_problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_document_Service.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/likhi/Interview/google-interview-prep/day1/python/code/document_management_service" value="3J93FG7WqaKSrD90LB4X9opLuhr" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3J92nMY25ASWK6m6f4f5ZGoku8g" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d4a74c56190c-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.33813.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20fc819a-2cb1-452e-be85-4f27f2c62e0f" name="Changes" comment="" />
+      <created>1789059129997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789059129997</updated>
+    </task>
+    <servers />
+  </component>
+</project>
