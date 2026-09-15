@@ -8,13 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20fc819a-2cb1-452e-be85-4f27f2c62e0f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../dsa/notes/DSA_Basics_Complete_17_Pointer_Foundation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/notes/DSA_Basics_Complete_17_Pointers_Textbook_Style.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/notes/DSA_Basics_Topper_Handwritten_Engineering_Notes_Unicode_Verified.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notes/FastAPI_Complete_Beginner_Textbook.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notes/FastAPI_Complete_Beginner_Textbook.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../notes/FastAPI_Handwritten_Engineering_Notes.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +30,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "likhi55"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/likhithhn0331-glitch/google-interview-prep.git",
+    "accountId": "638cdd3f-cc2d-422c-a15f-a85a768be77b"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />

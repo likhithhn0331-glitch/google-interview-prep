@@ -7,11 +7,16 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7afa224-2267-4f6e-8d95-3e26a3ee9627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../day5/dsa/sub_array_sum/brute_force.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../day5/dsa/sub_array_sum/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../day5/dsa/sub_array_sum/sliding_window.py" afterDir="false" />
+    <list default="true" id="2199556e-908d-4646-abb4-76ba4a58a896" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../product_of_self/brute_force.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_of_self/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_of_self/sliding_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sub_array_sum/brute_force.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sub_array_sum/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sub_array_sum/sliding_window.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../day1/python/code/document_management_service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day1/python/code/document_management_service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day4/dsa/longest_substring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day4/dsa/longest_substring/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +25,7 @@
   </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
-      <entry key="_C:/likhi/Interview/google-interview-prep/day4/dsa/longest_substring" value="3JGQhq6eW8KmaTVB2zPgIRPQ3aV" />
+      <entry key="_C:/likhi/Interview/google-interview-prep/day5/dsa/range_sum_query" value="3JLykNPDzU9hU6Qwq61V5RuFY7X" />
     </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -33,27 +38,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;likhithhn0331-glitch&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "likhithhn0331-glitch"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/likhithhn0331-glitch/google-interview-prep.git&quot;,
-    &quot;accountId&quot;: &quot;638cdd3f-cc2d-422c-a15f-a85a768be77b&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/likhithhn0331-glitch/google-interview-prep.git",
+    "accountId": "638cdd3f-cc2d-422c-a15f-a85a768be77b"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1,
-  &quot;fromUser&quot;: false
-}</component>
-  <component name="ProjectId" id="3JGQVXLMqqt40xoDmHML0Jwfy20" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JLyKv28SVJ6fWcahNnqDtcBKvL" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -84,13 +89,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/likhi/Interview/google-interview-prep/day4/dsa/longest_substring"
+    "copilot.sensitive.folder.allow.file_read.C:/likhi/Interview/google-interview-prep": "true",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="longest_substring" />
+      <module name="range_sum_query" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +132,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b7afa224-2267-4f6e-8d95-3e26a3ee9627" name="Changes" comment="" />
-      <created>1789284948754</created>
+      <changelist id="2199556e-908d-4646-abb4-76ba4a58a896" name="Changes" comment="" />
+      <created>1789454582377</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1789284948754</updated>
+      <updated>1789454582377</updated>
     </task>
     <servers />
   </component>
