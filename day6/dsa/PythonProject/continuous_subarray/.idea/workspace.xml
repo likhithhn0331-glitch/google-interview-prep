@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdf2b078-aa59-4d0a-870b-8bd0b988337d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../binary_subarrays_sum/brute_force.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binary_subarrays_sum/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../binary_subarrays_sum/prefix_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brute_force.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prefix_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../contiguous_array/brute_force.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../contiguous_array/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../contiguous_array/prefix_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../day5/dsa/range_sum_query/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../day5/dsa/range_sum_query/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/likhi/Interview/google-interview-prep/day6/dsa/PythonProject/continuous_subarray" value="3JMDQIernYQleNQ7eF8jmKPvA0d" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "likhithhn0331-glitch"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/likhithhn0331-glitch/google-interview-prep.git",
+    "accountId": "638cdd3f-cc2d-422c-a15f-a85a768be77b"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JMDPucgswFqjsDu5cvwXGSpQwp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "copilot.sensitive.folder.allow.file_read.C:/likhi/Interview/google-interview-prep": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d4a74c56190c-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.33813.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdf2b078-aa59-4d0a-870b-8bd0b988337d" name="Changes" comment="" />
+      <created>1789462022631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789462022631</updated>
+    </task>
+    <servers />
+  </component>
+</project>

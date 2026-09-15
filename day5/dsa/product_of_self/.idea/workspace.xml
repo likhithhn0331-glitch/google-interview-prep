@@ -7,11 +7,7 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2199556e-908d-4646-abb4-76ba4a58a896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../day6/dsa/contiguous_array/brute_force.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../day6/dsa/contiguous_array/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../day6/dsa/contiguous_array/prefix_sum.py" afterDir="false" />
-    </list>
+    <list default="true" id="6d6c5456-85e3-4b9f-ae3a-488aa7d13a26" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +15,7 @@
   </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
-      <entry key="_C:/likhi/Interview/google-interview-prep/day5/dsa/range_sum_query" value="3JLykNPDzU9hU6Qwq61V5RuFY7X" />
+      <entry key="_C:/likhi/Interview/google-interview-prep/day5/dsa/product_of_self" value="3JLxC1XYa96lZPURwxGN8TlfJB3" />
     </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -32,27 +28,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;likhithhn0331-glitch&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "likhi55"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/likhithhn0331-glitch/google-interview-prep.git&quot;,
-    &quot;accountId&quot;: &quot;638cdd3f-cc2d-422c-a15f-a85a768be77b&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/likhithhn0331-glitch/google-interview-prep.git",
+    "accountId": "638cdd3f-cc2d-422c-a15f-a85a768be77b"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2,
-  &quot;fromUser&quot;: false
-}</component>
-  <component name="ProjectId" id="3JLyKv28SVJ6fWcahNnqDtcBKvL" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JLx5BG3J4rhQUBE12ZUwss9xq9" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -75,21 +71,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
-    &quot;copilot.sensitive.folder.allow.file_read.C:/likhi/Interview/google-interview-prep&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "copilot.sensitive.folder.allow.file_read.C:/likhi/Interview/google-interview-prep": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="range_sum_query" />
+      <module name="product_of_self" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +122,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2199556e-908d-4646-abb4-76ba4a58a896" name="Changes" comment="" />
-      <created>1789454582377</created>
+      <changelist id="6d6c5456-85e3-4b9f-ae3a-488aa7d13a26" name="Changes" comment="" />
+      <created>1789453963187</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1789454582377</updated>
+      <updated>1789453963187</updated>
     </task>
     <servers />
   </component>
