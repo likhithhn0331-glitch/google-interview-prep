@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="256915e1-1017-4c73-a6fb-5e39c1ed9c01" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../group_anagram/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group_anagram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group_anagram/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group_anagram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group_anagram/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group_anagram/brute_force.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group_anagram/hashing_interval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group_anagram/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../group_anagram/problem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brute_force.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashing_interval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/likhi/Interview/google-interview-prep/day7/dsa/longest_consecutive_sequence" value="3JPdb8iFzbus8S5Oiichci0LIF8" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "likhithhn0331-glitch"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/likhithhn0331-glitch/google-interview-prep.git",
+    "accountId": "638cdd3f-cc2d-422c-a15f-a85a768be77b"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JPccZSTHGi50whhcb2QUbwqKqe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "copilot.sensitive.folder.allow.file_read.C:/likhi/Interview/google-interview-prep": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/likhi/Interview/google-interview-prep/day7/dsa/longest_consecutive_sequence"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\likhi\Interview\google-interview-prep\day7\dsa\longest_consecutive_sequence" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d4a74c56190c-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.33813.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="256915e1-1017-4c73-a6fb-5e39c1ed9c01" name="Changes" comment="" />
+      <created>1789566223794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789566223794</updated>
+    </task>
+    <servers />
+  </component>
+</project>
